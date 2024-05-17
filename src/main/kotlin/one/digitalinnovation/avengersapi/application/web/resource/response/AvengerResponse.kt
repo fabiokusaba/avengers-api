@@ -3,7 +3,7 @@ package one.digitalinnovation.avengersapi.application.web.resource.response
 import one.digitalinnovation.avengersapi.domain.avenger.Avenger
 
 data class AvengerResponse(
-    val id: Long,
+    val id: Long?,
     val nick: String,
     val person: String,
     val description: String?,
