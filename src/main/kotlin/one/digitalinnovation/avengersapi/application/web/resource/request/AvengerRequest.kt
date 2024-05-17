@@ -1,4 +1,4 @@
-package one.digitalinnovation.avengersapi.application.web.request
+package one.digitalinnovation.avengersapi.application.web.resource.request
 
 import jakarta.validation.constraints.NotBlank
 import jakarta.validation.constraints.NotEmpty
