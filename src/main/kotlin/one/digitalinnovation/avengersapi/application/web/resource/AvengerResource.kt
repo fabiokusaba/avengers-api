@@ -4,7 +4,6 @@ import jakarta.validation.Valid
 import one.digitalinnovation.avengersapi.application.web.resource.request.AvengerRequest
 import one.digitalinnovation.avengersapi.application.web.resource.response.AvengerResponse
 import one.digitalinnovation.avengersapi.domain.avenger.AvengerRepository
-import org.apache.coyote.Response
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
